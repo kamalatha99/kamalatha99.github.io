@@ -1,0 +1,20 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-color: blanchedalmond;
+}
+img{
+    width:40%;
+    height:60%;
+    padding-left:30%;
+}
+
+
+.name{
+    padding:15px;
+    font-size:50px;
+    text-decoration:underline;
+    text-align:center;
+}

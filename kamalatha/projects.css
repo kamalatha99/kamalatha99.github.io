@@ -1,0 +1,42 @@
+*{
+    padding:0px;
+    margin:2px;
+}
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU53WcIptcSwZnejb7xr1JP-7OeKks5T75ng&usqp=CAU");
+    background-size: cover;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    padding:20px;
+    text-decoration: underline;
+}
+a{
+    font-size: 45px;
+    font-weight:bold;
+    
+    color: blue;
+    position:relative;
+    top:30%;
+}
+.one{
+    background:url("https://data.whicdn.com/images/29809081/original.jpg");
+    border-radius: 50%;
+    padding:5px;
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    padding-left: 20px;
+    
+}
+.p{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+p{
+    position:relative;
+    top:30%;
+}
